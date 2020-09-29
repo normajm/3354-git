@@ -1,4 +1,5 @@
-# Assignment 1 Example repository
+Assignment 1: README.md file. Adding name and email.
+
 NAME: Norma Montejano
 Email: njm180002@utdallas.edu
 
