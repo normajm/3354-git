@@ -1,0 +1,12 @@
+Second attempt at program 1...
+
+file name: status2.txt
+Current git status command listed as ....
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+
+
